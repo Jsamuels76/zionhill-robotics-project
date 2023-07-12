@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="y^H|p;ZScFd26*;lj~7a" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="m.b0l%b!y,0S-SZ`}Em_"><field name="LEDS">`
+        # . . . . 
+        # . . . . 
+        # # # # . 
+        . . # # # 
+        . . # . .
+        `</field><next><block type="rover_move_forward" id="3GCsfPkFC0.,gg?(0ZEE"><value name="speed"><shadow type="math_number_minmax" id="N]kEIJ^BoI{}~M%$)g#v"><mutation min="-255" max="255" label="Speed" precision="0"></mutation><field name="SLIDER">50</field></shadow></value></block></next></block></statement></block></xml>
